@@ -1,7 +1,8 @@
 import axios from "axios";
 
 //give base URL
-const baseURL='https://vechicle-care-capestone-be.onrender.com/api';
+const baseURL='https://vechicle-care-capestone-be-1.onrender.com/api';
+
 
 const instance =axios.create({
     baseURL: baseURL,
